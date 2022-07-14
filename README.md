@@ -1,25 +1,18 @@
 # mamaMary01
 
-<style>
-    img {
-        background-color: #348ceb;
-        padding: 4px;
-    }
-</style>
-
 This AR app expects you to scan the following target image using your phone or computer's camera.
 
-<img src="./assets/madonna.jpg" style="background-color: #348ceb; padding: 4px;" width="50%" />
+<img src="./assets/madonna.jpg" width="50%" />
 
 Once you've successfully scanned the image, it displays a 3D model of Our Lady of Besalú, "a piece sculpted from alabaster and polychromed, is one of the most notable gothic sculptures of the Virgin Mary kept at the Girona Art Museum".
 
 Here are sample views of the 3D model when scanned by the app:
 
-<img src="./assets/mamaMary01-frontview.png" style="background-color: #348ceb; padding: 4px;" width="50%" />
+<img src="./assets/mamaMary01-frontview.png" style="border: solid #348ceb 4px;" width="50%" />
 
-<img src="./assets/mamaMary01-rotate-sideA.png" style="background-color: #348ceb; padding: 4px;" width="50%" />
+<img src="./assets/mamaMary01-rotate-sideA.png" style="border: solid #348ceb 4px;" width="50%" />
 
-<img src="./assets/mamaMary01-rotate-sideB.png" style="background-color: #348ceb; padding: 4px;" width="50%" />
+<img src="./assets/mamaMary01-rotate-sideB.png" style="border: solid #348ceb 4px;" width="50%" />
 
 
 Attribution:
