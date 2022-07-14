@@ -1,5 +1,12 @@
 # mamaMary01
 
+<style>
+    img {
+        background-color: #348ceb;
+        padding: 4px;
+    }
+</style>
+
 This AR app expects you to scan the following target image using your phone or computer's camera.
 
 <img src="./assets/madonna.jpg" />
