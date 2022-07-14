@@ -4,7 +4,7 @@ This AR app expects you to scan the following target image using your phone or c
 
 <img src="./assets/madonna.jpg" width="50%" />
 
-Once you've successfully scanned the image, it displays a 3D model of Our Lady of Besalú, "a piece sculpted from alabaster and polychromed, is one of the most notable gothic sculptures of the Virgin Mary kept at the Girona Art Museum".
+Once you've successfully scanned the image, it displays a 3D model of Our Lady of Besalú. This gothic sculpture of the Virgin Mary is kept at the <a href="https://museuart.cat/">Girona Art Museum</a>.
 
 Here are sample views of the 3D model when scanned by the app:
 
