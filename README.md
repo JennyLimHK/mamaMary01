@@ -22,9 +22,9 @@ Here are sample views of the 3D model when scanned by the app:
 
 Scan the QR code or click the link below to open the app, then look at the image on the right.
 
-<a href="https://jennylimhk.github.io/mamaMary01/">Live Demo</a>
+<img src="./assets/mamaMary01-QR-code.png" width="30%" /> 
 
-<img src="./assets/mamaMary01-QR-code.png" /> | <img src="./assets/madonna.jpg" width="30%" /> 
+<img src="./assets/madonna.jpg" width="30%" /> 
 
 
 <a href="https://jennylimhk.github.io/mamaMary01/">Live demo</a>
