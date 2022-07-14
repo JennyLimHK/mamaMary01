@@ -12,11 +12,15 @@ Once you've successfully scanned the image, it displays a 3D model of Our Lady o
 
 Here are sample views of the 3D model when scanned by the app:
 
-<img src="./assets/mamaMary01-frontview.png" style="border: 5px solid #348ceb;" width="50%" />
+<p float="left">
+<img src="./assets/mamaMary01-frontview.png" style="border: 5px solid #348ceb;" width="30%" />
+<img src="./assets/mamaMary01-standing.jpg" style="border: 5px solid #348ceb;" width="50%" />
+</p>
 
-<img src="./assets/mamaMary01-rotate-sideA.png" style="border: 5px solid #348ceb;" width="50%" />
-
+<p float="left">
+<img src="./assets/mamaMary01-rotate-sideA.png" style="border: 5px solid #348ceb;" width="30%" />    
 <img src="./assets/mamaMary01-rotate-sideB.png" style="border: 5px solid #348ceb;" width="50%" />
+</p>
 
 ## Try It Out:
 
