@@ -24,12 +24,15 @@ Scan the QR code or click the link below to open the app, then use the app to sc
 
 <p float="left">
   <img src="./assets/mamaMary01-QR-code.png" style="vertical-align: middle" width="30%" />
-  <img src="./assets/madonna.jpg" width="40%" /> 
+  <img src="./assets/madonna.jpg" width="50%" /> 
 </p>
 
 <a href="https://jennylimhk.github.io/mamaMary01/">Live demo</a>
 
+Built With:
 
+- <a href="https://hiukim.github.io/mind-ar-js-doc/">MindAR</a>: open source Web AR library
+- <a href="https://aframe.io">A-Frame</a>: web framework for building 3D/AR/VR experiences
 
 Attribution:
 
