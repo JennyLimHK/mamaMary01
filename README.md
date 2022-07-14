@@ -8,11 +8,11 @@ Once you've successfully scanned the image, it displays a 3D model of Our Lady o
 
 Here are sample views of the 3D model when scanned by the app:
 
-<img src="./assets/mamaMary01-frontview.png" />
+<img src="./assets/mamaMary01-frontview.png" width="50%" />
 
-<img src="./assets/mamaMary01-rotate-sideA.png" />
+<img src="./assets/mamaMary01-rotate-sideA.png" width="50%" />
 
-<img src="./assets/mamaMary01-rotate-sideB.png" />
+<img src="./assets/mamaMary01-rotate-sideB.png" width="50%" />
 
 
 Attribution:
