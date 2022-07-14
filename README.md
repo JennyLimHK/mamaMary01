@@ -1,10 +1,14 @@
-# mamaMary01
+# Mother Mary AR App #01 
 
-This AR app expects you to scan the following target image using your phone or computer's camera.
+## How to Use:
+
+This augmented reality (AR) app expects you to scan the following target image using your phone or computer's camera.
 
 <img src="./assets/madonna.jpg" width="50%" />
 
 Once you've successfully scanned the image, it displays a 3D model of Our Lady of Besalú. This gothic sculpture of the Virgin Mary is kept at the <a href="https://museuart.cat/">Girona Art Museum</a>.
+
+## AR Outputs:
 
 Here are sample views of the 3D model when scanned by the app:
 
@@ -14,6 +18,9 @@ Here are sample views of the 3D model when scanned by the app:
 
 <img src="./assets/mamaMary01-rotate-sideB.png" style="border: 5px solid #348ceb;" width="50%" />
 
+## Try It Out:
+
+<a href="https://jennylimhk.github.io/mamaMary01/">Live demo</a>
 
 Attribution:
 
