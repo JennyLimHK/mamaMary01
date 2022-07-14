@@ -20,11 +20,11 @@ Here are sample views of the 3D model when scanned by the app:
 
 ## Try It Out:
 
-Scan the QR code or click the link below to open the app, then look at the image on the right.
+Scan the QR code or click the link below to open the app, then use the app to scan the image of Our Lady of Besalú on the right.
 
 <p float="left">
-  <img src="./assets/mamaMary01-QR-code.png" width="30%" />
-  <img src="./assets/madonna.jpg" width="30%" /> 
+  <img src="./assets/mamaMary01-QR-code.png" style="vertical-align: middle" width="30%" />
+  <img src="./assets/madonna.jpg" width="40%" /> 
 </p>
 
 <a href="https://jennylimhk.github.io/mamaMary01/">Live demo</a>
