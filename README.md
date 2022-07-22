@@ -6,7 +6,7 @@ This augmented reality (AR) app expects you to scan the following target image u
 
 <img src="./assets/madonna.jpg" width="50%" />
 
-Once you've successfully scanned the image, it displays a 3D model of Our Lady of Besalú. This gothic sculpture of the Virgin Mary is kept at the <a href="https://museuart.cat/">Girona Art Museum</a>.
+Once you've successfully scanned the image, it displays a rotating 3D model of Our Lady of Besalú. This gothic sculpture of the Virgin Mary is kept at the <a href="https://museuart.cat/">Girona Art Museum</a>.
 
 ## AR Outputs:
 

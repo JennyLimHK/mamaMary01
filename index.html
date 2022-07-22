@@ -1,12 +1,12 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>    
     <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image.prod.js"></script>
-    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.1.4/dist/mindar-image-aframe.prod.js"></script>
   </head>
   <body>
+    
     <a-scene mindar-image="imageTargetSrc: ./assets/targets-mamaMary.mind;" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
       <a-assets>
         <a-asset-item id="mamaMaryModel" src="./assets/mary/scene.gltf"></a-asset-item>
@@ -15,7 +15,15 @@
       <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
 
       <a-entity mindar-image-target="targetIndex: 0">
-        <a-entity gltf-model="#mamaMaryModel" rotation="0 0 0" position="0 0 0" scale="0.6 0.6 0.6"></a-entity>
+          <a-entity 
+              gltf-model="#mamaMaryModel" 
+              rotation="0 0 0" 
+              position="0 0 0" 
+              scale="0.85 0.85 0.85"
+              animation="property: rotation; easing: linear; dur: 45000; to: 0 360 0; loop: true;"
+          >
+          </a-entity>
+
       </a-entity>
 
     </a-scene>
